@@ -9,7 +9,7 @@ Inspired by the "Neat Repeat" script for Logic Pro by Adam Adams.
 ## Demo
 
 Demo 1 https://youtu.be/TMA4FMU9vEc
-Demo 2 https://youtu.be/1OElYgm-Dac
+Demo 2 https://youtu.be/AvU043ztZBw
 
 ## Features
 
