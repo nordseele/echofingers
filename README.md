@@ -6,6 +6,12 @@ EchoFingers is a Max for Live MIDI performance device. It captures your physical
 
 Inspired by the "Neat Repeat" script for Logic Pro by Adam Adams.
 
+## Demo
+
+Demo 1 https://youtu.be/fKns5_e8VoA
+
+Demo 2 https://youtu.be/1OElYgm-Dac
+
 ## Features
 
 * **Polyphonic Chord Memory:** Smart legato detection automatically stacks notes to build chords.
