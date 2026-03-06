@@ -1,5 +1,7 @@
 # EchoFingers
 
+![EchoFingers Interface](echofingers_1_screen.png)
+
 EchoFingers is a Max for Live MIDI performance device. It captures your physical keyboard input to memorize chords or single notes, allowing you to retrigger them infinitely using a designated trigger key, a key range, or a MIDI CC pedal.
 
 Inspired by the "Neat Repeat" script for Logic Pro by Adam Adams.
