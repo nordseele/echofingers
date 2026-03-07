@@ -1,4 +1,4 @@
-# EchoFingers
+# EchoFingers 1.1
 
 ![EchoFingers Interface](echofingers_1_screen.png)
 
@@ -35,3 +35,7 @@ Licensed under **CC BY-NC-SA 4.0**. You are free to use, modify, and share this 
 
 EchoFingers is completely free. If it improves your workflow, consider supporting the creator:
 [Support Buma on Ko-fi](https://ko-fi.com/bumathan)
+
+
+## Release notes
+ 1.1 - Bugfix (Legato Sync): Fixed an issue where fast legato playing could leave ghost notes stuck in memory. Memory now perfectly synchronizes with physically held keys upon triggering.
