@@ -39,3 +39,7 @@ EchoFingers is completely free. If it improves your workflow, consider supportin
 
 ## Release notes
  1.1 - Bugfix (Legato Sync): Fixed an issue where fast legato playing could leave ghost notes stuck in memory. Memory now perfectly synchronizes with physically held keys upon triggering.
+
+
+## Roadmap
+New version with many new features coming up in a few days.
