@@ -42,4 +42,4 @@ EchoFingers is completely free. If it improves your workflow, consider supportin
 
 
 ## Roadmap
-New version with many new features coming up in a few days.
+New version with many new features  and workflow improvement coming up in a few days.
