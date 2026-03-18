@@ -1,4 +1,4 @@
-# EchoFingers 1.1
+# EchoFingers 1.2
 
 ![EchoFingers Interface](echofingers_1_screen.png)
 
@@ -39,3 +39,5 @@ EchoFingers is completely free. If it improves your workflow, consider supportin
 
 ## Release notes
  1.1 - Bugfix (Legato Sync): Fixed an issue where fast legato playing could leave ghost notes stuck in memory. Memory now perfectly synchronizes with physically held keys upon triggering.
+
+ 1.2 - Fix: Solves an issue where hanging notes could occur in strict DAWs (like Logic Pro) during rapid retriggering. Implemented a robust "Note Counting" system that precisely tracks overlapping Note On events to guarantee an exact match of Note Off messages, preventing any stuck voices while preserving seamless legato playability.
